@@ -2,13 +2,13 @@ import React from "react";
 
 const Hero = () => {
   return (
-    <div className="max-w-3xl mx-auto flex justify-between mt-8 items-start flex-col px-4 font-mono ">
+    <div className="max-w-3xl mx-auto flex justify-between mt-8 items-start flex-col px-4 font-mono " id="#about">
       <span>Hi 👋, I'm Gyan Prakash Tiwari</span>
       <span>A Full-Stack Developer and Open Source Enthusiast</span>
       <span className="mt-12">Let's Connect 👋</span>
       <div className="flex mt-2 gap-4">
 
-        <a href="https://github.com/gyancodes">
+        <a  href="https://github.com/gyancodes">
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             className="h-8"

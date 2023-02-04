@@ -9,7 +9,7 @@ const Skills = () => {
   return (
     <>
       <div className="mx-auto  max-w-3xl items-center justify-between mt-14 p-4 font-mono">
-        <span className="text-2xl font-semibold mb-9 border-b-4 border-black">Skills</span>
+        <span className="text-2xl font-semibold mb-9 border-b-4 border-black" id="skills">Skills</span>
         <div className="flex gap-4 mt-9">
           <img src={HTML} className="h-12 " alt="" />
           <img src={CSS} className="h-12" alt="" />
