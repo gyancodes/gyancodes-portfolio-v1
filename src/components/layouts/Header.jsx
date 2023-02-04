@@ -15,17 +15,18 @@ const Header = () => {
           >
             about
           </a>
-          
+
 
         </li>
-        {/* <li>
-          <Link
-            to="/about"
+        <li>
+        <a
+            href="#skills"
             className=" hover:border-b-4 hover:border-black hover:transition-all	"
           >
             skills
-          </Link>
-        </li> */}
+          </a>
+
+        </li>
         {/* <li>
           <Link
             to="/about"
