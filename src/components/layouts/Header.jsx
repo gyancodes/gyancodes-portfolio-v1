@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="mx-auto flex max-w-3xl items-center justify-between p-4 font-mono">
       <Link to="/">
-        <img src="/gyancodes.svg" className="h-8" alt="gyancodes" />
+        <img src="/blacklogo.png" className="h-8" alt="gyancodes" />
       </Link>
       <ul className="flex items-center gap-4">
         <li>
