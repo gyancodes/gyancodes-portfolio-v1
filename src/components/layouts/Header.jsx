@@ -11,7 +11,7 @@ const Header = () => {
         <li>
           <a
             href="#about"
-            className=" hover:border-b-4 hover:border-black hover:transition-all	"
+            className=" hover:border-b-4 hover:border-white hover:transition-all	"
           >
             about
           </a>
@@ -21,7 +21,7 @@ const Header = () => {
         <li>
         <a
             href="#skills"
-            className=" hover:border-b-4 hover:border-black hover:transition-all	"
+            className=" hover:border-b-4 hover:border-white hover:transition-all	"
           >
             skills
           </a>

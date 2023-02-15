@@ -4,7 +4,7 @@ const Education = () => {
   return (
     <div className="max-w-3xl mx-auto flex justify-between mt-12 items-start flex-col px-4 font-mono">
       {" "}
-      <span className="text-2xl font-semibold mb-4 border-b-4 border-black">
+      <span className="text-2xl font-semibold mb-4 border-b-4 border-white">
         Education
       </span>
       <div className="flex gap-5">
